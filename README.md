@@ -16,6 +16,6 @@ This project is licensed under a Creative Commons Attribution 4.0 International 
 
 
 ## References
-* **[1]** I. Coghill, R. A. Black, I. A. T. Livingstone, and M. E. Giardini, ‘Low-Cost Open Source 3D Printable Eye Phantom for Topographical Retinal Imaging Research’, 
+* **[1]** I. Coghill, R. A. Black, I. A. T. Livingstone, and M. E. Giardini, ‘Low-Cost Eye Phantom for Stereophotogrammetry-Based Optic Nerve Head Topographical 3D Imaging’, 
 presented at the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), EMB Virtual Academy, 20-24 July 2020.
 Preprint available at https://strathprints.strath.ac.uk/72203/ 
